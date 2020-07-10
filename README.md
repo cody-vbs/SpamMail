@@ -8,6 +8,7 @@ Send unlimitted number of emails, coded using java and netbeans.
 * enter the message
 * enter the amount of emails you want to send
 ![image](https://drive.google.com/uc?export=view&id=1_0-ALmYQ3fBC-Rp-TLECci_qwt3OTEYx)
+
 Note: This program currently has no GUI therefore when you click on the .jar file it appears to not open. Make sure you open the file in command prompt following the instructions above.
 
 Want to test the program [Click here to download](https://drive.google.com/uc?export=download&id=1pihyQot8LEmv0Id3IshkZveIqh3R_SV_).

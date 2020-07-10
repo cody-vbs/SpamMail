@@ -7,4 +7,4 @@ Send unlimitted number of emails, coded using java and netbeans.
 * enter the target email
 * enter the message
 * enter the amount of emails you want to send
-![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG
+![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
